@@ -1,1 +1,1 @@
-# statlearning_classifier
+# Statistical Learning Classifier
